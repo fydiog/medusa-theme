@@ -17,5 +17,16 @@
                 "path": "./themes/Medusa Theme-color-theme.json"
             }
         ]
-    }
+    },
+    "icon":"icons/medusa.png",
+    "author":{
+        "name":"Fidel Mangold",
+        "email":"fydiog@gmail.com",
+        "url":"https://www.linkedin.com/in/fidelmangold/"
+    },
+    "repository": {
+        "url": "https://github.com/fydiog/medusa-theme.git",
+        "type": "git"
+    },
+    "publisher": "fidel-mangold"
 }
