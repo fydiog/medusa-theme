@@ -1,2 +1,1 @@
-# README
-## This is the README for extension "medusa-theme"
+# Medusa Theme. Dark minimalistic theme for VS Code
