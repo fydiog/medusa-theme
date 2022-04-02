@@ -1,0 +1,21 @@
+{
+    "name": "medusa-theme",
+    "displayName": "medusa-theme",
+    "description": "Medusa Theme. Dark minimalistic theme for VS Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Medusa Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Medusa Theme-color-theme.json"
+            }
+        ]
+    }
+}
